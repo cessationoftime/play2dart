@@ -5,3 +5,4 @@ dependencies:
   browser: any
   web_ui: any
   play_webuic: any
+  polymer: any
