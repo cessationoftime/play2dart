@@ -4,5 +4,9 @@ dependencies:
   browser: any
   js: any
   play_webuic: any
+<<<<<<< HEAD
+  polymer: any
+=======
   polymer: any
   web_ui: any
+>>>>>>> 164ed49370dcb4b75659151fe4c00ee2a55cfc83

@@ -1,21 +1,18 @@
 import 'dart:html';
+<<<<<<< HEAD
+import 'dart:convert';
+import 'dart:math';
+=======
+>>>>>>> 164ed49370dcb4b75659151fe4c00ee2a55cfc83
 import 'dart:async';
-
-
-import 'included.dart';
-import 'package:SoSimple/SoSimple.dart';
 
 
 void main() {
  
-
-
   addReverseTextSample();
   
- 
+  
 }
-
-
 
 
 addReverseTextSample() {

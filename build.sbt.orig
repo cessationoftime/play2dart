@@ -18,8 +18,12 @@ dartEntryPoints += "simple.dart"
 
 dartEntryPoints += "simple2.dart"
 
+<<<<<<< HEAD
 dartWebUIEntryPoints += "testwebui.html"
 
 dartVerbose := false
 
 dartDev := true
+=======
+//dartWebUIEntryPoints += "testwebui.html"
+>>>>>>> 164ed49370dcb4b75659151fe4c00ee2a55cfc83
